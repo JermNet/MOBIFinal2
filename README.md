@@ -1,3 +1,6 @@
+# Video covering this project
+https://youtu.be/gGKZQct4s8Y
+
 # HOW TO RUN
 Windows: Run "WhatStrikesYou.exe" in the "What Strikes You - Windows&Linux Build Version" folder
 Linux: Run "WhatStrikesYou.sh" in the "What Strikes You - Windows&Linux Build Version" folder
